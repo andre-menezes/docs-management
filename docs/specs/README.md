@@ -11,15 +11,15 @@ Toda funcionalidade é implementada **somente** a partir de uma SPEC com status 
 
 ## Catálogo de funcionalidades
 
-| SPEC     | Funcionalidade                                                      | Pilar | Status     |
-| -------- | ------------------------------------------------------------------- | ----- | ---------- |
-| SPEC-000 | Dados fictícios e camada de acesso a dados                          | 1     | Em revisão |
-| SPEC-001 | Listagem de documentos com paginação                                | 2     | Planejada  |
-| SPEC-002 | Busca e filtros (tipo, status, responsável)                         | 2     | Planejada  |
-| SPEC-003 | Detalhes do documento                                               | 2     | Planejada  |
-| SPEC-004 | Alteração de status e gestão de pendências                          | 2     | Planejada  |
-| SPEC-005 | Assistente: resumo progressivo com streaming e cancelamento         | 3     | Planejada  |
-| SPEC-006 | Assistente: saída estruturada (resumo, pendências, próximos passos) | 3     | Planejada  |
-| SPEC-007 | Assistente: tool calling com confirmação humana                     | 3     | Planejada  |
-| SPEC-008 | Assistente: limites, conteúdo não confiável e renderização segura   | 3     | Planejada  |
-| SPEC-009 | Observabilidade, limites de uso e flag do assistente                | 5     | Planejada  |
+| SPEC     | Funcionalidade                                                      | Pilar | Status    |
+| -------- | ------------------------------------------------------------------- | ----- | --------- |
+| SPEC-000 | Dados fictícios e camada de acesso a dados                          | 1     | Aprovada  |
+| SPEC-001 | Listagem de documentos com paginação                                | 2     | Planejada |
+| SPEC-002 | Busca e filtros (tipo, status, responsável)                         | 2     | Planejada |
+| SPEC-003 | Detalhes do documento                                               | 2     | Planejada |
+| SPEC-004 | Alteração de status e gestão de pendências                          | 2     | Planejada |
+| SPEC-005 | Assistente: resumo progressivo com streaming e cancelamento         | 3     | Planejada |
+| SPEC-006 | Assistente: saída estruturada (resumo, pendências, próximos passos) | 3     | Planejada |
+| SPEC-007 | Assistente: tool calling com confirmação humana                     | 3     | Planejada |
+| SPEC-008 | Assistente: limites, conteúdo não confiável e renderização segura   | 3     | Planejada |
+| SPEC-009 | Observabilidade, limites de uso e flag do assistente                | 5     | Planejada |

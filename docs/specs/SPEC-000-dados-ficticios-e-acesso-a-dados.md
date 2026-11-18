@@ -2,7 +2,7 @@
 
 | Campo          | Valor              |
 | -------------- | ------------------ |
-| Status         | Em revisão         |
+| Status         | Aprovada           |
 | Pilar          | 1                  |
 | Prioridade     | Alta               |
 | ADRs           | ADR-0002, ADR-0005 |
@@ -289,11 +289,12 @@ Não se aplica. A camada é consumida apenas no servidor (Server Components, Rou
 
 ## 12. Questões em aberto
 
-- [ ] Versionamento de conteúdo do documento (histórico de versões) fica para uma SPEC futura?
-- [ ] Ao rejeitar uma revisão (`em_revisao → rascunho`), as pendências abertas devem ser mantidas?
+- [x] Versionamento de conteúdo do documento (histórico de versões) fica para uma SPEC futura?
+- [x] Ao rejeitar uma revisão (`em_revisao → rascunho`), as pendências abertas devem ser mantidas?
 
 ## 13. Histórico
 
-| Data       | Alteração |
-| ---------- | --------- |
-| 2026-11-17 | Criação   |
+| Data       | Alteração                                |
+| ---------- | ---------------------------------------- |
+| 2026-11-17 | Criação                                  |
+| 2026-11-18 | Questões em aberto respondidas; aprovada |

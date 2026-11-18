@@ -28,7 +28,7 @@ Painel de gestão de documentos digitais com assistente de IA integrado.
 ```bash
 pnpm dev          # servidor de desenvolvimento
 pnpm lint         # ESLint
-pnpm typecheck    # tsc --noEmit
+pnpm typecheck    # next typegen + tsc --noEmit
 pnpm test         # testes unitários e de componentes (Vitest)
 pnpm test:e2e     # testes ponta a ponta (Playwright)
 pnpm validate     # lint + typecheck + test (rodar antes de concluir qualquer tarefa)

@@ -1,6 +1,6 @@
 # ADR-0005: Camada de dados simulada em memória
 
-- **Status:** Proposto
+- **Status:** Aceito
 - **Data:** 2026-11-17
 - **Decisores:** Andre Menezes
 - **SPECs relacionadas:** SPEC-000

@@ -49,6 +49,7 @@ Toda tarefa segue o ciclo descrito em `docs/process/ai-development-cycle.md`:
 src/
 ├── app/                      # rotas, layouts e route handlers (App Router)
 ├── features/<dominio>/       # módulos por domínio (documents, assistant…)
+│   ├── domain/               # regras de domínio puras (transições, cálculos)
 │   ├── components/
 │   ├── hooks/
 │   ├── api/                  # queries, mutations e chaves do TanStack Query

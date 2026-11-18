@@ -12,11 +12,11 @@ Projeto de estudo e portfólio que demonstra desenvolvimento frontend sênior as
 
 ## Fluxo de branches
 
-| Branch      | Finalidade                                                       |
-| ----------- | ---------------------------------------------------------------- |
-| `main`      | Código estável, pronto para produção                             |
-| `develop`   | Integração das funcionalidades concluídas                        |
-| `<tipo>/*`  | Trabalho do dia a dia, criado a partir de `develop` (ex.: `feat/`, `fix/`, `docs/`) |
+| Branch     | Finalidade                                                                          |
+| ---------- | ----------------------------------------------------------------------------------- |
+| `main`     | Código estável, pronto para produção                                                |
+| `develop`  | Integração das funcionalidades concluídas                                           |
+| `<tipo>/*` | Trabalho do dia a dia, criado a partir de `develop` (ex.: `feat/`, `fix/`, `docs/`) |
 
 Commits seguem o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/).
 
